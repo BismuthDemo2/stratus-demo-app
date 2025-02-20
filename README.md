@@ -6,6 +6,8 @@ spanning a data processing queue, backend API, and frontend.
 We've created a handful of issues on this GitHub repo representing real features and bugs.
 Feel free to modify the issues, adding details on what you'd like to see Bismuth do.
 
+Bismuth also integrates with Jira for ticket management, but for simplicity this demo uses GitHub issues.
+
 To get started, you'll need to link GitHub to Bismuth.
 Log in to https://app.bismuth.cloud and follow this tutorial: https://www.loom.com/share/8ce05331a7944bcd9f63aeabc4be0c66
 
